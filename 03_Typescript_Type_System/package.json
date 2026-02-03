@@ -1,0 +1,16 @@
+{
+  "name": "03_typescript_type_system",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:dev": "tsc -w"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  }
+}
