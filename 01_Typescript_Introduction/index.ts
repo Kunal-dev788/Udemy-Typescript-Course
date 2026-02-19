@@ -15,6 +15,6 @@ for (const student of students) {
 }
 */
 
-const addNumbers = (numOne: number, numTwo: number) => numOne + numTwo;
+const addNumbers = (numOne: number, numTwo: number) : number => numOne + numTwo;
 console.log(addNumbers(1, 2));
 // console.log(addNumbers(1, "2"));
