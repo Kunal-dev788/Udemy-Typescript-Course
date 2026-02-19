@@ -25,7 +25,6 @@ function processData(data: string): void {
 }
 processData("sample data");
 
-
 function errorHandlingScenario(): never {
   throwError("An unexpected error occurred!");
 }
